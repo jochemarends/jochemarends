@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jochemarends
-- 👀 I’m interested in programming, games and sports
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in absolutely nothing
+- 🌱 I’m currently learning OpenGL
 - 📫 How to reach me: Jochem#0001 on Discord
 
 <!---
