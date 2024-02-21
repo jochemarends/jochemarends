@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jochemarends
-- 👀 I’m interested in absolutely nothing
-- 🌱 I’m currently learning OpenGL
+Applied Computer Science student at Saxion, Enschede.
+
+email: jwn.arends@gmail.com
 
 <!---
 - 📫 How to reach me:  
